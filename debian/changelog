@@ -1,0 +1,18 @@
+amarok-artwork (1.0-3) stable; urgency=medium
+
+  * New upstream version for Amarok Linux OS
+  * update
+
+ -- Amarok Linux <packages@amaroklinux.org>  Wed, 10 Aug 2022 14:03:44 -0300
+
+amarok-artwork (1.0-2) bullseye; urgency=medium
+
+  * New upstream version for Amarok Linux 3
+
+ -- Amarok Linux <packages@amaroklinux.org>  Sat, 18 Dec 2021 10:38:26 -0300
+
+amarok-artwork (1.0-1) bullseye; urgency=medium
+
+  * Initial release for Amarok Linux 3
+
+ -- Amarok Linux <packages@amaroklinux.org>  Thu, 16 Sep 2021 11:42:43 -0300
